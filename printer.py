@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import usb
 # Alright, I don't know why pyusb1.0.0 works.
 # At first it didn't, so I tried installing 0.1, then some other stuff.
